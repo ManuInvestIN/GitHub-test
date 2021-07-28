@@ -1,2 +1,2 @@
 # GitHub-test
-Bla bla
+Getting to know repositories, pull requests, commits, clonning, etc. 
